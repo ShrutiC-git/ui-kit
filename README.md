@@ -9,7 +9,7 @@ UI Kit is a collaboration between D2iQ's product design team and engineering tea
 - [Icon Library](/packages/icons)
 - [Design Guidelines](/design-guidelines)
 
-## Getting started
+## Getting started  --
 
 Install dependencies (Node v16+, NPM 7+)
 
